@@ -8,6 +8,9 @@ Technology Stack:
 - PHP
 
 Developed by:
+
 [Bongumusa Mavuso](https://github.com/BongumusaSizwe):Font End
+
 [Romeo Thema](https://github.com/romeothema19): Backend
+
 [TAS](https://github.com/TAS-7): Backend
